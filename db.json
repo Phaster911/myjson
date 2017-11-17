@@ -1,0 +1,82 @@
+[{
+	"text": "Particulares",
+	"produtos": [{
+        "text": "Vida Financeiros",
+        "simuladores": [{
+            "text": "Simulação (Accumulator)",
+            "link": "Accumulator"
+        },
+        {
+            "text": "Cotação (Accumulator)",
+            "link": "Accumulator (F)"
+        }],
+        "modalidades": []
+    },
+    {
+        "text": "Acidentes Pessoais",
+        "simuladores": [],
+        "modalidades": [{
+            "text": "Individual",
+            "simuladores": [{
+                "text": "Simulação",
+                "link": "Acidentes Pessoais"
+            },
+            {
+                "text": "Pedido Cotação",
+                "link": "AP-Individual (F)"
+            }]
+        },
+        {
+            "text": "Ocupantes de Viatura",
+            "simuladores": [{
+                "text": "Simulação",
+                "link": "Acidentes Pessoais - Ocupantes"
+            },
+            {
+                "text": "Pedido Cotação",
+                "link": "AP-Ocupantes de Viatura (F)"
+            }]
+        }]
+    }]
+},
+{
+	"text": "Empresas",
+	"produtos": [{
+        "text": "Vida Financeiros",
+        "simuladores": [{
+            "text": "Simulação (Accumulator)",
+            "link": "Accumulator"
+        },
+        {
+            "text": "Cotação (Accumulator)",
+            "link": "Accumulator (F)"
+        }],
+        "modalidades": []
+    },
+    {
+        "text": "Acidentes Pessoais",
+        "simuladores": [],
+        "modalidades": [{
+            "text": "Individual",
+            "simuladores": [{
+                "text": "Simulação",
+                "link": "Acidentes Pessoais"
+            },
+            {
+                "text": "Pedido Cotação",
+                "link": "AP-Individual (F)"
+            }]
+        },
+        {
+            "text": "Ocupantes de Viatura",
+            "simuladores": [{
+                "text": "Simulação",
+                "link": "Acidentes Pessoais - Ocupantes"
+            },
+            {
+                "text": "Pedido Cotação",
+                "link": "AP-Ocupantes de Viatura (F)"
+            }]
+        }]
+    }]
+}]
